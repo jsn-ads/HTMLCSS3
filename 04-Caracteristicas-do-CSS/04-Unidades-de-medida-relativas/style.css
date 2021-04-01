@@ -1,0 +1,17 @@
+html{
+    font-size: 15px;
+}
+
+h1{
+    font-size: 3rem;
+}
+
+.box{
+    font-size: 2rem;
+}
+
+.box-interno{
+    width: 20rem;
+    height: 20rem;
+    background-color: #DDD9;
+}
