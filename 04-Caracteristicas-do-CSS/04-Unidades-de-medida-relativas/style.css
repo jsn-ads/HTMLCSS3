@@ -1,5 +1,5 @@
 html{
-    font-size: 15px;
+    font-size: 5px;
 }
 
 h1{
@@ -14,4 +14,16 @@ h1{
     width: 20rem;
     height: 20rem;
     background-color: #DDD9;
+}
+
+.box02{
+    background-color: #DDDD;
+    width: 25%;
+    height: 400px;
+}
+
+.box02-interno{
+    background-color: #CCCC;
+    width: 50%;
+    height: 50%;
 }
