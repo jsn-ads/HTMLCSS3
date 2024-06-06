@@ -1,3 +1,7 @@
 body :not(p){
+<<<<<<< HEAD
     background-color: #FF0000;
+=======
+    background-color: red;
+>>>>>>> 11c0c082ae724f5738381d1edb13e5b58d636f50
 }
